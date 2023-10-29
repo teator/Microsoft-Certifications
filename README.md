@@ -7,7 +7,7 @@ Resources for Microsoft certifications
 
 ### Resources for individual certifications
 
- - [AZ-900](../main/AZ-900%20Azure%20Fundamentals)
+ - [AZ-900](../main/AZ-900%20Azure%20Fundametals.md)
  - [DP-900]
  - [DP-203]
 
