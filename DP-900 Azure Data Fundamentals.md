@@ -7,7 +7,7 @@
 
 > **Note**
 > For hands-on practice create sandbox account -
-> [How to create Microsoft Learn Azure Sandbox ](https://github.com/teator/Microsoft-Certifications/tree/main#guide-on-how-to-create-microsoft-learn-azure-sandbox-account)
+> [How to create Microsoft Learn Azure Sandbox account](https://github.com/teator/Microsoft-Certifications/blob/main/README.md#how-to-create-microsoft-learn-azure-sandbox-account)
 
 
 <br>
@@ -15,30 +15,32 @@
 
 ### Official Microsoft or Microsoft endorsed study resources:
  
- - [DP-900 on Microsoft Learn](https://learn.microsoft.com/en-gb/training/courses/dp-900t00)
+ - Microsoft Learn Course - [DP-900: Microsoft Azure Data Fundamentals](https://learn.microsoft.com/en-gb/training/courses/dp-900t00)
  
- - [Microsoft Virtual Training Days - Azure Data Fundamentals](https://events.microsoft.com/en-us/mvtd?language=English&clientTimeZone=1&scenario=Microsoft%20Azure%20Virtual%20Training%20Day:%20Data%20Fundamentals)
+ - Microsoft Virtual Training Days - [Azure Data Fundamentals](https://events.microsoft.com/en-us/mvtd?language=English&clientTimeZone=1&scenario=Microsoft%20Azure%20Virtual%20Training%20Day:%20Data%20Fundamentals)
  
  - Coursera - [Microsoft Azure Data Fundamentals DP-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-dp-900-data-fundamentals) 
 >  `Note: while this 5-course Specialisation is not free, you can sign on to individual courses within specialisation in 'Audit' mode to get free access to study materials: reading, videos and practice tests.`
 
  - Microsoft Learn shows and series
-   - Data Exposed  https://learn.microsoft.com/en-us/shows/data-exposed/
-   - Learn Live: Data Engineer  https://learn.microsoft.com/en-us/shows/learn-live/?expanded=azure&roles=data-engineer
-   - Azure SQL for Beginners  https://learn.microsoft.com/en-us/shows/azure-sql-for-beginners/
-   - Special Edition: Performance Troubleshooting | Azure SQL for Beginners  https://learn.microsoft.com/en-us/shows/special-edition-performance-troubleshooting-azure-sql-for-beginners/
-   - Azure Database for MySQL - Beginners Series  https://learn.microsoft.com/en-us/shows/azure-database-for-mysql-beginners-series/
-   - Bash for Beginners  https://learn.microsoft.com/en-us/shows/bash-for-beginners/
-   - More Python for Beginners  https://learn.microsoft.com/en-us/shows/more-python-for-beginners/
-   - Even More Python for Beginners - Data Tools  https://learn.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tools/
-   - Azure Data Lake  https://learn.microsoft.com/en-us/shows/azuredatalake/
+   - [Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/)
+   - [Learn Live: Data Engineer](https://learn.microsoft.com/en-us/shows/learn-live/?expanded=azure&roles=data-engineer)
+   - [Database Fundamentals](https://learn.microsoft.com/en-us/shows/dbfundamentals/)
+   - [Azure SQL for Beginners](https://learn.microsoft.com/en-us/shows/azure-sql-for-beginners/)
+   - [Special Edition: Performance Troubleshooting | Azure SQL for Beginners](https://learn.microsoft.com/en-us/shows/special-edition-performance-troubleshooting-azure-sql-for-beginners/)
+   - [Azure Database for MySQL - Beginners Series](https://learn.microsoft.com/en-us/shows/azure-database-for-mysql-beginners-series/)
+   - [Pardon the Data Disruption: The Azure Relational Databases Edition](https://learn.microsoft.com/en-us/shows/pardon-the-data-disruption-the-azure-relational-databases-edition/)
+   - [Python for Beginners](https://learn.microsoft.com/en-us/shows/intro-to-python-development/)
+   - [More Python for Beginners](https://learn.microsoft.com/en-us/shows/more-python-for-beginners/)
+   - [Even More Python for Beginners - Data Tools](https://learn.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tools/)
+   - [Azure Data Lake](https://learn.microsoft.com/en-us/shows/azuredatalake/)
  
  - [Microsoft Connected Learning Experience (CLX)](https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa/my-tracks)
-   - CloudLabs guided exercises  https://mslearn.cloudguides.com/en-us/guides/DP-900%20Exam%20Guide%20-%20Azure%20Data%20Fundamentals
+   - [CloudLabs guided exercises](https://mslearn.cloudguides.com/en-us/guides/DP-900%20Exam%20Guide%20-%20Azure%20Data%20Fundamentals)
 
- - Microsoft Learn Azure Data Fundamentals Exercises
-   - https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/
-   - Microsoft Learning GitHub repo: DP-900T00A-Azure-Data-Fundamentals  https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals
+ - MicrosoftLearning hands-on exercises
+   - [MicrosoftLearning Azure Data Fundamentals Exercises](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/)
+   - Microsoft Learning GitHub repo: [DP-900T00A-Azure-Data-Fundamentals](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals)
 
  - Exam experience:
    - Microsoft  [exam sandbox](https://aka.ms/examdemo)

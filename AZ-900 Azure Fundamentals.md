@@ -8,7 +8,7 @@
 
 > **Note**
 > For hands-on practice create sandbox account -
-> [How to create Microsoft Learn Azure Sandbox ](https://github.com/teator/Microsoft-Certifications/tree/main#guide-on-how-to-create-microsoft-learn-azure-sandbox-account)
+> [How to create Microsoft Learn Azure Sandbox account](https://github.com/teator/Microsoft-Certifications/blob/main/README.md#how-to-create-microsoft-learn-azure-sandbox-account)
 
 <br>
 
@@ -18,25 +18,25 @@ Start with taking a virtual tour around Microsoft datacentre for general idea wh
 
 ### Official Microsoft or Microsoft endorsed study resources:
  
- - [AZ-900 on Microsoft Learn](https://learn.microsoft.com/en-gb/training/courses/az-900t00)
+ - Microsoft Learn Course - [AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-gb/training/courses/az-900t00)
  
- - [Microsoft Virtual Training Days - Azure Fundamentals](https://events.microsoft.com/en-us/mvtd?language=English&clientTimeZone=1&scenario=Microsoft%20Azure%20Virtual%20Training%20Day:%20Fundamentals)
+ - Microsoft Virtual Training Days - [Azure Fundamentals](https://events.microsoft.com/en-us/mvtd?language=English&clientTimeZone=1&scenario=Microsoft%20Azure%20Virtual%20Training%20Day:%20Fundamentals)
  
  - Coursera - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900) 
 >  `Note: this link will take you to 4-course Specialisation which is not free. However, you can sign on to individual courses within specialisation in 'Audit' mode to get free access to study materials: reading, videos and practice tests.`
 
- - [Microsoft Reactor 10 lectures on AZ-900](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yFXHH9hUnBU-FL2nss63il)
+ - Microsoft Reactor -[10 lectures on AZ-900](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yFXHH9hUnBU-FL2nss63il)
  
  - Microsoft Learn shows and series
-   - Azure Demo Series https://learn.microsoft.com/en-us/shows/azure-demo-series/
-   - Bash for Beginners  https://learn.microsoft.com/en-us/shows/bash-for-beginners/
+   - [Azure Demo Series](https://learn.microsoft.com/en-us/shows/azure-demo-series/)
+   - [Bash for Beginners](https://learn.microsoft.com/en-us/shows/bash-for-beginners/)
  
  - Microsoft Technical Trainers - sandbox exercise guides
    - [Azure Fundamentals (AZ-900) - Sandbox/Practical Exercises](https://learn.microsoft.com/en-us/collections/7ppetn16mm3r3e)
    - [YouTube hands-on walkthrough videos](https://www.youtube.com/playlist?list=PLATBV_Vy-h161cL4pj0Cl8unpLP2lScJr)
  
  - [Microsoft Connected Learning Experience (CLX)](https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa/my-tracks)
-   - CloudLabs guided exercises https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals
+   - [CloudLabs guided exercises](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals)
 
  - Exam experience:
    - Microsoft  [exam sandbox](https://aka.ms/examdemo)
@@ -52,8 +52,8 @@ Start with taking a virtual tour around Microsoft datacentre for general idea wh
    - [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
  - Adam Marczak - Azure for Everyone
-   - [Microsoft Azure Fundamentals (AZ-900) Full Course (study guides and practice tests)](https://marczak.io/az-900/)
-   - [Microsoft Azure Fundamentals (AZ-900) Full Course (YouTube video playlist)](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
+   - [Microsoft Azure Fundamentals (AZ-900) Full Course ](https://marczak.io/az-900/) (study guides and practice tests)
+   - [Microsoft Azure Fundamentals (AZ-900) Full Course ](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) (YouTube video playlist)
  
  - John Savill's Technical Training
    - [AZ-900 Azure Fundamentals Certification Course - Last Update Feb 2023](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
