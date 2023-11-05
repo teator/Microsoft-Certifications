@@ -27,12 +27,12 @@
    > - All about data: feature demonstrations, discussions, latest news - [Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/)
    > - Microsoft Learn content Live - [Learn Live: Data Engineer](https://learn.microsoft.com/en-us/shows/learn-live/?expanded=azure&roles=data-engineer)
    > - [Pardon the Data Disruption: The Azure Relational Databases Edition](https://learn.microsoft.com/en-us/shows/pardon-the-data-disruption-the-azure-relational-databases-edition/)
-   > - [Programming Databases with **T-SQL** for Beginners](https://learn.microsoft.com/en-us/shows/programming-databases-with-t-sql-for-beginners/) (or on [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHj551_lUtce08JUnTMY-y-R)) `(supplemental reading for Microsoft Learn Module 3: Explore fundamental relational data concepts)`
+   > - [Programming Databases with **T-SQL** for Beginners](https://learn.microsoft.com/en-us/shows/programming-databases-with-t-sql-for-beginners/) (or on [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHj551_lUtce08JUnTMY-y-R)) <br> `(supplemental reading for Microsoft Learn Module 3: Explore fundamental relational data concepts)`
    >   - Pair this series with [Get Started Querying with Transact-SQL](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/) learning path
-   > - **Azure SQL** video series: `(supplemental reading for Microsoft Learn Module 4: Explore relational database services in Azure)`
+   > - **Azure SQL** video series: <br> `(supplemental reading for Microsoft Learn Module 4: Explore relational database services in Azure)`
    >   - [Azure SQL for Beginners](https://learn.microsoft.com/en-us/shows/azure-sql-for-beginners/) (or same on [YouTube](https://www.youtube.com/playlist?list=PL3EZ3A8mHh0y0EVZoKGljNPytdjrxXIZ9))
    >   - [Special Edition: Performance Troubleshooting | Azure SQL for Beginners](https://learn.microsoft.com/en-us/shows/special-edition-performance-troubleshooting-azure-sql-for-beginners/) (or on [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHgDkZ84FfCSDLBcJmUn8ktU))
-   >   - [Learn Live: Azure SQL Fundamentals](https://learn.microsoft.com/en-gb/shows/learn-live/?languages=sql) (or on [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjveswk8_gkPD42Te48X4zG))
+   >   - [Learn Live: Azure SQL Fundamentals](https://learn.microsoft.com/en-gb/shows/learn-live/?languages=sql) (or [updated YouTube playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHia4Hwxg_8_H-L7vrnk4Dz_))
    >   - Pair these video series with the [Azure SQL fundamentals](https://learn.microsoft.com/en-us/training/paths/azure-sql-fundamentals/) learning path and [Azure SQL Workshops](https://microsoft.github.io/sqlworkshops/?WT.mc_id=azuresql4beg_azuresql-ch9-code)
    > - [Azure Database for **MySQL** - Beginners Series](https://learn.microsoft.com/en-us/shows/azure-database-for-mysql-beginners-series/)
    > - Bundle of **Python** video series: 
@@ -40,9 +40,9 @@
    >   2. [More Python for Beginners](https://learn.microsoft.com/en-us/shows/more-python-for-beginners/) and 
    >   3. [Even More Python for Beginners - Data Tools](https://learn.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tools/)
    > - [Azure Data Lake](https://learn.microsoft.com/en-us/shows/azuredatalake/)
-   > - [Learn Live: Azure Cosmos DB Certification Study Hall](https://learn.microsoft.com/en-gb/shows/learn-live/azure-cosmos-db-certification-study-hall/)
-   >   - Pair this series with the [Get started with Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-gb/training/paths/get-started-azure-cosmos-db-sql-api/) learning path.
    > - [Database Fundamentals](https://learn.microsoft.com/en-us/shows/dbfundamentals/) - (2013 recordings)
+   > - [Learn Live: Azure Cosmos DB Certification Study Hall](https://learn.microsoft.com/en-gb/shows/learn-live/azure-cosmos-db-certification-study-hall/) (this is entire DP-420 study guide so not everything is required)
+   >   - Pair this series with the [Get started with Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-gb/training/paths/get-started-azure-cosmos-db-sql-api/) learning path and this [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqobzYMwqfrx-pddxv-pCr) playlist.
  
 
  - [Microsoft Connected Learning Experience (CLX)](https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa/my-tracks)
