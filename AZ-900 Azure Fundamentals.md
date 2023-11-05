@@ -1,8 +1,8 @@
 
-# AZ-900 Azure Fundamentals Certification 
+# AZ-900 Azure Fundamentals 
 
 ## Study resources
-`(only free or trial resources)`
+`(Only free or free trial resources)`
 
 <br>
 
@@ -25,7 +25,7 @@ Start with taking a virtual tour around Microsoft datacentre for general idea wh
  - Coursera - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900) 
 >  `Note: this link will take you to 4-course Specialisation which is not free. However, you can sign on to individual courses within specialisation in 'Audit' mode to get free access to study materials: reading, videos and practice tests.`
 
- - Microsoft Reactor -[10 lectures on AZ-900](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yFXHH9hUnBU-FL2nss63il)
+ - Microsoft Reactor - [10 lectures on AZ-900](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yFXHH9hUnBU-FL2nss63il)
  
  - Microsoft Learn shows and series
    - [Azure Demo Series](https://learn.microsoft.com/en-us/shows/azure-demo-series/)
@@ -42,9 +42,28 @@ Start with taking a virtual tour around Microsoft datacentre for general idea wh
    - Microsoft  [exam sandbox](https://aka.ms/examdemo)
    - Microsoft AZ-900 [free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 
+---
+
+### AZ-900 sandbox exercises
+
+Core modules
+ - [Exercise - Explore the Learn sandbox](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox)
+ - [Exercise - Create an Azure resource](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/7-exercise-create-azure-resource)
+ - [Exercise - Create an Azure virtual machine](https://learn.microsoft.com/en-gb/training/modules/describe-azure-compute-networking-services/3-exercise-create-azure-virtual-machine)
+ - [Exercise - Configure network access](https://learn.microsoft.com/en-gb/training/modules/describe-azure-compute-networking-services/9-exercise-configure-network-access)
+ - [Exercise - Create a storage blob](https://learn.microsoft.com/en-gb/training/modules/describe-azure-storage-services/5-exercise-create-storage-blob)
+
+
+Additional exercises
+ - [Exercise - Create a web app in the Azure portal](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/3-exercise-create-a-web-app-in-the-azure-portal?pivots=python)
+ - [Exercise - Write code to implement a web application](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/5-exercise-implement-a-web-application?pivots=python)
+ - [Exercise - Deploy your code to App Service](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/7-exercise-deploy-your-code-to-app-service?pivots=python)
+ - [Exercise - Create a storage account using the Azure portal](https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/5-exercise-create-a-storage-account)
+
 
 ---
-### Third-party independent resources
+
+### Third-party study resources
 ### Video tutorials:
  
  - FreeCodeCamp - Andrew Brown (ExamPro)
