@@ -24,25 +24,24 @@
 
 
  - Microsoft Learn shows and series
-   > - All about data: feature demonstrations, discussions, latest news - [Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/)
-   > - Microsoft Learn content Live - [Learn Live: Data Engineer](https://learn.microsoft.com/en-us/shows/learn-live/?expanded=azure&roles=data-engineer)
+   > - [Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/) - All about data: feature demonstrations, discussions, latest news  `(filter/search this by topics)`
+   > - Microsoft Learn content Live - [Learn Live](https://learn.microsoft.com/en-us/shows/learn-live/) `(filter/search this by topics)`
+   >   - [Learn Live: Get started with Microsoft Fabric](https://learn.microsoft.com/en-gb/shows/learn-live/get-started-microsoft-fabric/)
+   >   - [Learn Live: Azure Cosmos DB for PostgreSQL](https://learn.microsoft.com/en-gb/shows/learn-live/azure-cosmos-db-for-postgresql/)
    > - [Pardon the Data Disruption: The Azure Relational Databases Edition](https://learn.microsoft.com/en-us/shows/pardon-the-data-disruption-the-azure-relational-databases-edition/)
-   > - [Programming Databases with **T-SQL** for Beginners](https://learn.microsoft.com/en-us/shows/programming-databases-with-t-sql-for-beginners/) (or on [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHj551_lUtce08JUnTMY-y-R)) <br> `(supplemental reading for Microsoft Learn Module 3: Explore fundamental relational data concepts)`
+   > - [Programming Databases with **T-SQL** for Beginners](https://learn.microsoft.com/en-us/shows/programming-databases-with-t-sql-for-beginners/) (or on [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHj551_lUtce08JUnTMY-y-R)) <br> `(this is supplemental reading for Microsoft Learn DP-900 Module 3: Explore fundamental relational data concepts)`
    >   - Pair this series with [Get Started Querying with Transact-SQL](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/) learning path
-   > - **Azure SQL** video series: <br> `(supplemental reading for Microsoft Learn Module 4: Explore relational database services in Azure)`
+   > - **Azure SQL** video series: <br> `(this is supplemental reading for Microsoft Learn DP-900 Module 4: Explore relational database services in Azure)`
    >   - [Azure SQL for Beginners](https://learn.microsoft.com/en-us/shows/azure-sql-for-beginners/) (or same on [YouTube](https://www.youtube.com/playlist?list=PL3EZ3A8mHh0y0EVZoKGljNPytdjrxXIZ9))
    >   - [Special Edition: Performance Troubleshooting | Azure SQL for Beginners](https://learn.microsoft.com/en-us/shows/special-edition-performance-troubleshooting-azure-sql-for-beginners/) (or on [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHgDkZ84FfCSDLBcJmUn8ktU))
    >   - [Learn Live: Azure SQL Fundamentals](https://learn.microsoft.com/en-gb/shows/learn-live/?languages=sql) (or [updated YouTube playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHia4Hwxg_8_H-L7vrnk4Dz_))
    >   - Pair these video series with the [Azure SQL fundamentals](https://learn.microsoft.com/en-us/training/paths/azure-sql-fundamentals/) learning path and [Azure SQL Workshops](https://microsoft.github.io/sqlworkshops/?WT.mc_id=azuresql4beg_azuresql-ch9-code)
    > - [Azure Database for **MySQL** - Beginners Series](https://learn.microsoft.com/en-us/shows/azure-database-for-mysql-beginners-series/)
-   > - Bundle of **Python** video series: 
-   >   1. [Python for Beginners](https://learn.microsoft.com/en-us/shows/intro-to-python-development/), 
-   >   2. [More Python for Beginners](https://learn.microsoft.com/en-us/shows/more-python-for-beginners/) and 
-   >   3. [Even More Python for Beginners - Data Tools](https://learn.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tools/)
    > - [Azure Data Lake](https://learn.microsoft.com/en-us/shows/azuredatalake/)
    > - [Database Fundamentals](https://learn.microsoft.com/en-us/shows/dbfundamentals/) - (2013 recordings)
    > - [Learn Live: Azure Cosmos DB Certification Study Hall](https://learn.microsoft.com/en-gb/shows/learn-live/azure-cosmos-db-certification-study-hall/) (this is entire DP-420 study guide so not everything is required)
    >   - Pair this series with the [Get started with Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-gb/training/paths/get-started-azure-cosmos-db-sql-api/) learning path and this [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqobzYMwqfrx-pddxv-pCr) playlist.
+   > - [Hello World: Where should I put my Data in Azure?](https://learn.microsoft.com/en-us/shows/hello-world/where-should-i-put-my-data-in-azure)
  
 
  - [Microsoft Connected Learning Experience (CLX)](https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa/my-tracks)
@@ -90,7 +89,7 @@ Additional exercises
 
  - FreeCodeCamp - Andrew Brown (ExamPro)
    - [Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course](https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/)
-   - [Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
+   - [Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=P3qmqUZJ7l0) (or the same in [bite-sized video playlst](https://www.youtube.com/playlist?list=PLBfufR7vyJJ5wcKZFxY-IRgr0YwJoYCHz))
 
  - John Savill's Technical Training
    - [John Savill's website](https://learn.onboardtoazure.com/)

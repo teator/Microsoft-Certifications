@@ -30,6 +30,9 @@ Start with taking a virtual tour around Microsoft datacentre for general idea wh
  - Microsoft Learn shows and series
    - [Azure Demo Series](https://learn.microsoft.com/en-us/shows/azure-demo-series/)
    - [Bash for Beginners](https://learn.microsoft.com/en-us/shows/bash-for-beginners/)
+   - [Hello World: How to track our costs in Azure](https://learn.microsoft.com/en-us/shows/hello-world/s2e15-hello-world-azure-cost-management)
+   - [Learn Live: Automate your Azure deployments by using Bicep and GitHub Actions](https://learn.microsoft.com/en-gb/shows/learn-live/automate-azure-deployments-bicep-github-actions/)
+   - [Learn Live: Use Bicep to deploy your Azure infrastructure as code](https://learn.microsoft.com/en-gb/shows/learn-live/iac-and-bicep/)
  
  - Microsoft Technical Trainers - sandbox exercise guides
    - [Azure Fundamentals (AZ-900) - Sandbox/Practical Exercises](https://learn.microsoft.com/en-us/collections/7ppetn16mm3r3e)
@@ -68,7 +71,7 @@ Additional exercises
  
  - FreeCodeCamp - Andrew Brown (ExamPro)
    - [Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 3-Hour Course](https://www.freecodecamp.org/news/azure-fundamentals-course-az900/)
-   - [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+   - [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA) (or the same in [bite-sized video playlist](https://www.youtube.com/playlist?list=PLBfufR7vyJJ4sJX_1LAiQt9GTRioEc5Ld))
 
  - Adam Marczak - Azure for Everyone
    - [Microsoft Azure Fundamentals (AZ-900) Full Course ](https://marczak.io/az-900/) (study guides and practice tests)
@@ -88,7 +91,6 @@ Additional exercises
  - Paul Browning  - [Microsoft Azure Fundamentals (AZ 900) - Complete Course](https://www.youtube.com/watch?v=XbWciktv5s8)
 
  - Gregor Suttie  - [AZ-900 Azure Fundamentals](https://www.youtube.com/playlist?list=PLrDWgkiCvaPReqv4uagsi9oCjADR9ADBO)
-
 
 
 ### Practice exams and sample tests
