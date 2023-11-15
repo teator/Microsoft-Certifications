@@ -6,7 +6,7 @@
 
 
 | Microsoft Power Up Program |
-|  |
+| :--- |
 | If you qualify consider enrolling in [Microsoft Power Up Program](https://powerup.microsoft.com/?ref=user) - this 3 months free program enables non-tech professionals to successfully advance into a new career path in low-code application development using Microsoft Power Platform. |
 
 

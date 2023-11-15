@@ -82,8 +82,8 @@ See [Azure Training and Certification Guide](https://query.prod.cms.rt.microsoft
 
 
 |  Microsoft Learn Career Connected  |
-|  |
-| Join [Microsoft Learn Career Connected](https://learn.microsoft.com/en-gb/training/career-paths/career-connected) - dedicated LinkedIn community of skilling organizations, newly skilled job-seekers, and employers in need of talent. <br> _Note: you can join this Community if you have less than six months of professional experience in chosen area of interest (Microsoft Dynamics 365, Azure, security/cybersecurity, Data, AI, or Power Platform) and you may remain in this Community for no more than six (6) months. After six (6) months, you'll be removed from the Community and graduated into the corresponding tech community._ |
+| :--- |
+| [Microsoft Learn Career Connected](https://learn.microsoft.com/en-gb/training/career-paths/career-connected) is private LinkedIn group that brings together job seekers and companies looking for people interested in Dynamics 365, Azure, Azure Data, Azure AI, security / cybersecurity, or Power Platform. <br> _Note: you can join this Community if you have less than six months of professional experience in chosen area of interest (Microsoft Dynamics 365, Azure, security/cybersecurity, Data, AI, or Power Platform) and you may remain in this Community for no more than six (6) months. After six (6) months, you'll be removed from the Community and graduated into the corresponding tech community._ |
 
 
 ---
